@@ -33,4 +33,4 @@ Hello, I'm Daniele. I'm a Data Scientist with expertise in analyzing and interpr
 ### :wave: Connect with Me
 
 - [Linkedin](https://www.linkedin.com/in/daniele-didino/)
-- Hire me on [Upwork](https://...) *coming soon*
+- Hire me on [Upwork](https://...) ... *coming soon*
