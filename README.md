@@ -1,6 +1,6 @@
-## About me :vulcan_salute:
+## About me
 
-Hello, I'm Daniele. I'm a Data Scientist with expertise in analyzing and interpreting structured and unstructured data, data modeling, hypothesis testing, defining statistical approaches, and clearly explaining findings.
+Hello :vulcan_salute:, I'm Daniele. I'm a Data Scientist with expertise in analyzing and interpreting structured and unstructured data, data modeling, hypothesis testing, defining statistical approaches, and clearly explaining findings.
 
 ### :computer: Programming Languages
 
