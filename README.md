@@ -33,4 +33,3 @@ Hello :vulcan_salute:, I'm Daniele. I'm a Data Scientist with expertise in analy
 ### :wave: Connect with Me
 
 - [Linkedin](https://www.linkedin.com/in/daniele-didino/)
-- Hire me on [Upwork](https://www.upwork.com/freelancers/~0156778f4882abbc2a)
